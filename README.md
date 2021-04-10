@@ -39,7 +39,7 @@ The proposed networks with MBN outperforms the baselines in everyperformance mea
 | ResNet | 65.0% | 70.0% | 0.768 |
 | ResNet + MBN | 71.3% | 86.3% | 0.880 |
 
-![ROC](./img/ROCmass.png){: width="50%" height="50%"}
+![ROC](./img/ROCmass.png =250x)
 
 ## Qualitative result
 
