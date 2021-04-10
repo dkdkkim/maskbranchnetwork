@@ -39,8 +39,7 @@ The proposed networks with MBN outperforms the baselines in everyperformance mea
 | ResNet | 65.0% | 70.0% | 0.768 |
 | ResNet + MBN | 71.3% | 86.3% | 0.880 |
 
-![ROC](./img/ROCmass.png) { width: 200px; }
-
+![ROC](./img/ROCmass.png | width=100)
 ## Qualitative result
 
 Class activation maps (CAMs) to show the effect of the mask branch network(MBN).Top row:Breast mass samples on ABUS images marked by red boxes.Middlerow:CAMs of DenseNet.Bottom row:CAMs of DenseNet with MBN
